@@ -1,0 +1,4 @@
+git+git://github.com/tagucci/pythonrouge.git
+pyyaml
+scikit-learn
+tensorflow==1.3.0
